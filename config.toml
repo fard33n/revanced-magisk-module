@@ -17,10 +17,10 @@ module-prop-name = "ytrv-magisk"
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
+integrations-source = "inotia00/revanced-integrations" 
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-excluded-patches = ""
+excluded-patches = "always-autorepeat comments custom-branding disable-fullscreen-panels	disable-player-popup-panels	enable-debugging	hide-artist-card	hide-autoplay-button	hide-crowdfunding-box	hide-seekbar hide-timestamp	hide-watch-in-vr hide-watermark open-links-externally"
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
